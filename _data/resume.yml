@@ -1,11 +1,11 @@
-title: "简历 - 某码农 - Java研发工程师/项目经理"
-name: "某码农"
+title: "简历 - Psicmi - Java研发工程师/项目经理"
+name: "裴凯"
 jobtitle: "Java研发工程师 | 项目经理"
 contact:
   - icon: fa-envelope
-    text: 
+    text: psicmi@163.com
   - icon: fa-phone-square
-    text: (+86) 1**********
+    text: (+86) 18622527529
   - icon: fa-globe
     text: psicmi.cc
     link: https://psicmi.cc
@@ -14,7 +14,7 @@ experience:
   - title: "某商业银行B2C项目（云账本）"
     jobTitle: "开发工程师,项目经理"
     duration: "2018/05 - 至今"
-    company: "某上市金融厂商公司"
+    company: "北京科蓝软件系统股份有限公司"
     description: 
         - title: "研发工程师虚账户系统开发及维护"
           text: "联机接口、定时任务、批量账务处理、业务后管平台、B2B账务系统迁移、商户对接"
@@ -25,7 +25,7 @@ experience:
   - title: "某商业银行B2B电商合作平台"
     jobTitle: "开发工程师"
     duration: "2017/03 - 2018/06"
-    company: "某上市金融厂商公司"
+    company: "北京科蓝软件系统股份有限公司"
     description: 
         - title: "B2B业务梳理及系统搭建"
           text: "需求分析;参与账户系统模型调研与搭建;参与虚账户系统API设计；"
@@ -36,7 +36,7 @@ experience:
   - title: "某商业银行电商合作平台"
     jobTitle: "开发工程师"
     duration: "2016/04 - 2017/02"
-    company: "某上市金融厂商公司"
+    company: "北京科蓝软件系统股份有限公司"
     description: 
         - title: "参与系统搭建"
           text: "需求分析;参与业务接口设计，实现电商系统的账务直连操作"
@@ -45,7 +45,7 @@ experience:
   - title: "某商业银行企业网银、个人网银"
     jobTitle: "开发工程师"
     duration: "2017/03 - 2018/06"
-    company: "某上市金融厂商公司"
+    company: "北京科蓝软件系统股份有限公司"
     description: 
         - title: "系统开发及维护"
           text: "JSP 页面开发;H5 页面开发;业务流程编码实现"
@@ -68,7 +68,7 @@ skills:
 
 
 education:
-  - university: "某大学"
+  - university: "中北大学"
     duration: "2010/09 - 2014/07"
     location: "中国"
     major: "工学学士，软件工程"
